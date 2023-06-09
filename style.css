@@ -21,7 +21,7 @@ a{
     position: fixed;
     top: 0;
     left: 0;
-    width: 17rem;
+    width: 20rem;
     height: 100vh;
     background-color: #fe6d6d;
 }
@@ -83,6 +83,10 @@ h1{
     color: grey;
     margin-bottom: 350px;
 
+}
+.logo_vscode{
+    height: 50px;
+    width: 43.75px;
 }
 .margin-font-icon{
     margin-right: 10px;
